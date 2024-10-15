@@ -46,3 +46,5 @@ for i  in combinations(result, 3):
     check(i)
 
 print(answer)
+
+#dfs로 풀기 
