@@ -26,5 +26,4 @@ def dfs(cnt,num):
 
 dfs(0,'')
 answer_set = set(answer)
-print(answer_set)
 print(len(answer_set))
