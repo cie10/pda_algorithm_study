@@ -27,3 +27,4 @@ def dfs(cnt,num):
 dfs(0,'')
 answer_set = set(answer)
 print(len(answer_set))
+
