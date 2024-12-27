@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main{
+public class P15686{
 
     static int N, M;
     static int[][] city;
